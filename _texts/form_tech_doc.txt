@@ -1,0 +1,46 @@
+(Header)
+
+Anime Survey Form					<-- Title
+Thank you for taking your time to respond		<-- description
+
+(Form fields - every one needs a placeholder)	<-- form (survey-form)
+
+Name
+(id="name-label")
+
+Age							<-- input number (if out of min / max range, returns a HTML5 error validation)
+(id="email-label")
+
+Email							<-- input email (if wrong, returns a HTML5 error validation)
+(id="number-label")
+
+Wich kind of protagonist do you prefer? (dropdown)
+
+Generic Harem king
+Tsundere / Yandere
+Oujou-sama
+Overpower
+Undeserved
+
+Which style do you like most? (checkbox)
+
+Harem
+Ecchi
+Isekai
+Shonen
+Shoujo
+Seinen
+Hentai
+
+How many hours do you spend daily watching Anime?
+(same "name" atribute to every one)
+
+1 	hour!
+2 - 4 	hours!!
+5 	more hours!!!
+
+Any comments or suggestions? (textarea)
+(placeholder)
+
+Submit button
+(id="submit")
