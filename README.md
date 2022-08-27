@@ -2,4 +2,6 @@
 Formulário criado para praticar Bootstrap.<br>
 Bootstrap via CDN.</br>
 </br>
-Disponível em: https://jeimoal.github.io/AnimeSurveyForm/
+Disponível em: https://jeimoal.github.io/AnimeSurveyForm/<br>
+<br>
+<img src="capturar.png" style="align-content: center;">
